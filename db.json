@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Brittany",
+      "last_name": "Ryley",
+      "email": "bryley0@wiley.com",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "first_name": "Randi",
+      "last_name": "Leahy",
+      "email": "rleahy1@cyberchimps.com",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "first_name": "Marsha",
+      "last_name": "Cottie",
+      "email": "mcottie2@huffingtonpost.com",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Clim",
+      "last_name": "Jerzycowski",
+      "email": "cjerzycowski3@squarespace.com",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "first_name": "Guglielmo",
+      "last_name": "Lowle",
+      "email": "glowle4@etsy.com",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "first_name": "Merci",
+      "last_name": "Reede",
+      "email": "mreede5@behance.net",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Jarrett",
+      "last_name": "Philippson",
+      "email": "jphilippson6@twitpic.com",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "first_name": "Thedrick",
+      "last_name": "Scouse",
+      "email": "tscouse7@unblog.fr",
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "first_name": "Lilla",
+      "last_name": "Mattiato",
+      "email": "lmattiato8@ezinearticles.com",
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "first_name": "Rosita",
+      "last_name": "Bradbeer",
+      "email": "rbradbeer9@de.vu",
+      "gender": "Female"
+    }
+  ]
+}
